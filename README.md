@@ -3,13 +3,13 @@ This project involved the analysis of seven virus genomes, including the SARS-Co
 
 Data The data for this project consisted of seven virus genomes in FASTA format. The genomes were:
 
-AY274119.3 Severe acute respiratory syndrome-related coronavirus isolate Tor2, complete genome
-AY278488.2 SARS coronavirus BJ01, complete genome
-KP876546.1 Rhinolophus bat coronavirus BtCoV/4991 RNA-dependent RNA polymerase (RdRp) gene, partial cds
-MG772933.1 Bat SARS-like coronavirus isolate bat-SL-CoVZC45, complete genome
-MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome
-MN988668.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV WHU01, complete genome
-MN988669.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV WHU02, complete genome
+* AY274119.3 Severe acute respiratory syndrome-related coronavirus isolate Tor2, complete genome
+* AY278488.2 SARS coronavirus BJ01, complete genome
+* KP876546.1 Rhinolophus bat coronavirus BtCoV/4991 RNA-dependent RNA polymerase (RdRp) gene, partial cds
+* MG772933.1 Bat SARS-like coronavirus isolate bat-SL-CoVZC45, complete genome
+* MN908947.3 Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome
+* MN988668.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV WHU01, complete genome
+* MN988669.1 Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV WHU02, complete genome
 
 Analyses and Findings GC Content The GC content of each genome was calculated. The GC content is the percentage of nucleotides in a DNA sequence that are either guanine (G) or cytosine (C). The GC content was relatively similar across the genomes, with slight variations.
 
